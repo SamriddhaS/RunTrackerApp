@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RunningAppHilt</string>
+    <string name="app_name">RunTrackerApp</string>
     <string name="google_maps_key">AIzaSyDWjRjiNypE1q503iknfWJKPbrbuVqymL4</string>
     <string-array name="filter_options">
         <item>Date</item>

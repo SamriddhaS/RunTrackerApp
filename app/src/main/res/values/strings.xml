@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RunningAppHilt</string>
+    <string name="google_maps_key">AIzaSyDWjRjiNypE1q503iknfWJKPbrbuVqymL4</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+</resources>

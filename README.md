@@ -1,4 +1,8 @@
 # RunTrackerApp
+
+#### Download app apk:https://github.com/SamriddhaS/RunTrackerApp/blob/master/download%20apk/RunTrack.apk
+
+
 This app helps you track your location while running or travelling to give you precise details(exact locaions,total distance covered,speed,average speed etc) about your journey and display them in an effective manner.
 
 Library and Technology used:
